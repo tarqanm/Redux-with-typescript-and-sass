@@ -1,0 +1,19 @@
+{
+  "name": "template-typescript-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.6",
+    "react-redux": "^8.1.2",
+    "redux": "^4.2.1",
+    "sass": "^1.68.0",
+    "typescript": "^5.2.2"
+  }
+}
